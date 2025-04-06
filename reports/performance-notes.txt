@@ -1,0 +1,10 @@
+Notas de rendimiento interno (uso interno del equipo)
+
+- Las sesiones móviles aumentaron un 63%, lo que refuerza la necesidad de priorizar mobile-first.
+- El formulario de contacto tuvo un 16% de mejora al reducir campos innecesarios.
+- El público entre 25 y 34 años representa el 52% de las visitas.
+
+✅ Recomendación:
+Optimizar campañas específicas para ese segmento con mensajes directos y lenguaje informal.
+
+Última revisión por: Emilia
